@@ -1,6 +1,5 @@
 import React, { useContext } from 'react'
-import { useHistory } from 'react-router-dom';
-import { Link, NavLink } from 'react-router-dom';
+import { useHistory, Link, NavLink } from 'react-router-dom';
 import { authContext } from '../../auth/AuthContext';
 import { types } from '../../types/types';
 
